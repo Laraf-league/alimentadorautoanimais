@@ -1,3 +1,12 @@
+  <p align="center">
+  <img
+    alt="Logo LARAF"
+    title="Logo LARAF"
+    width="150px"
+    src="Mídias/Imagens/Logo LARAF.jpeg"
+  />
+</p>
+
 # Comedouro Automatizado e Sustentável para Animais
 
 ### Este projeto consiste em um alimentador automático programável com controle remoto via Bluetooth e Wi-Fi, projetado para fornecer ração de forma controlada e automatizada. Ele permite o ajuste de tempo e quantidade de alimentação usando potenciômetros, além de recursos adicionais como detecção de movimento e simulação de captura de imagem via câmera.
@@ -11,5 +20,5 @@
 - status → exibe o status do sistema
 - photo → simula captura de imagem
 - Detecção de movimento com sensor PIR
-- Simulação de câmera integrada (imagem capturada ao detectar movimento ou sob comando)
+- Simulação de câmera integrada (imagem capturada ao detectar movimento ou sob comando).
 
